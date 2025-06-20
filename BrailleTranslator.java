@@ -6,9 +6,6 @@ import java.util.ArrayList;
  * Contains methods to translate Braille to English and English to Braille using
  * a BST.
  * Reads encodings, adds characters, and traverses tree to find encodings.
- * 
- * @author Seth Kelley
- * @author Kal Pandit
  */
 public class BrailleTranslator {
 
